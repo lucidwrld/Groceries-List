@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": 5,
+      "checked": false,
+      "item": "jkhkkjkj"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "pizza"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "cookie"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "shushi"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "cookie"
+    },
+    {
+      "id": 10,
+      "checked": false,
+      "item": "pizza"
+    }
+  ]
+}
